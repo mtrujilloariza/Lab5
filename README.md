@@ -9,6 +9,4 @@
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
-
 [Link to latest issue](https://github.com/mtrujilloariza/github-actions-for-ci/issues/8)
